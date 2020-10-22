@@ -8,3 +8,6 @@ Fast2sms:- https://www.fast2sms.com/dashboard/sms/bulk
 
 Your api of Fast2sms:- https://www.fast2sms.com/dashboard/dev-api
 
+For more help you can also refer: - https://docs.fast2sms.com/ 
+
+
